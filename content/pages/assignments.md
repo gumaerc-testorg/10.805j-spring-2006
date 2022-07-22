@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a writing assignment on strategies for regulating
+  indoor exposure to toxic substances.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3400de6f-9d6d-aca7-ad95-57a17e8d5ae2
 ---
